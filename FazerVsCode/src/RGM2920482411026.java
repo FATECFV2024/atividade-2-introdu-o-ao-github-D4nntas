@@ -1,4 +1,5 @@
 public class RGM2920482411026 {
+    // Declaração e inicialização dos atributos"
     public String nomeCompleto= "Erick Dantas";
     public String RGM= "2920482411026";
     public String idade= "19 anos";
